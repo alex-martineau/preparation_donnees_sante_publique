@@ -72,9 +72,9 @@ Le dépôt contient :
 ## 📂 Structure du dépôt  
 
 ```text
-Data_Preparation
+preparation_donnees_sante_publique
 │
-├── Martineau_Alexandre_1_notebook_032024.ipynb   # Notebook principal
-├── Martineau_Alexandre_2_presentation_032024.pptx # Présentation PowerPoint
+├── Martineau_Alexandre_1_notebook_032024.ipynb      # Notebook principal
+├── Martineau_Alexandre_2_presentation_032024.pptx   # Présentation PowerPoint
 └── README.md
 ```
