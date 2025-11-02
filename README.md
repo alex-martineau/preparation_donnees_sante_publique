@@ -56,7 +56,7 @@ Le dépôt contient :
 | Sugary snacks          | 91 %             | 99 %              |
 | Milk and dairy         | 89 %             | 98 %              |
 | Fat and sauces         | 85 %             | 95 %              |
-| Total accuracy         | **87 % → 96 %**  |                   |
+| Total accuracy         | **87 %**         | **96 %**          |
 
 ---
 
